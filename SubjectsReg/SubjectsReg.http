@@ -1,0 +1,6 @@
+@SubjectsReg_HostAddress = http://localhost:5064
+
+GET {{SubjectsReg_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
